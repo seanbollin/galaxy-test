@@ -1,0 +1,6 @@
+- src: git+https://github.com/seanbollin/galaxy-sample-role1
+  version: v1.0.0
+
+- src: git+https://github.com/seanbollin/galaxy-sample-role2
+  version: v1.0.0
+
